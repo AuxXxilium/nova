@@ -21,7 +21,7 @@ mixes several kinds.
 | <img src="art/gauss_cannon.webp" width="200" alt="Gauss Cannon"> | **Gauss Cannon**<br>Fires metal at tremendous speed, punching through the armor of Cruisers and Battleships. |
 | <img src="art/plasma_turret.webp" width="200" alt="Plasma Turret"> | **Plasma Turret**<br>Fires bolts of plasma. Deadly to big ships: Battleships, Destroyers, Battlecruisers and Wing Carriers. |
 | <img src="art/xenite_lance.webp" width="200" alt="Xenite Lance"> | **Xenite Lance**<br>An exotic beam powered by xenite, tuned to the cores of Xenite Dreadnoughts, and strong against Destroyers, Battlecruisers and Wing Carriers too. |
-| <img src="art/orbital_ring.webp" width="200" alt="Orbital Ring"> | **Orbital Ring**<br>A ring around the whole planet, carrying hundreds of heavy cannons that each pick their own target. Strong against Cruisers, Battleships, Destroyers and Battlecruisers. A huge late-game project. One per planet. |
+| <img src="art/orbital_ring.webp" width="200" alt="Orbital Ring"> | **Orbital Ring**<br>A ring around the whole planet, carrying hundreds of heavy cannons that each pick their own target. Strong against Cruisers, Battleships, Destroyers and Battlecruisers. A huge late-game project. Up to three per planet. |
 
 ## Shield domes
 
