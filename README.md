@@ -49,8 +49,10 @@ On the **Buildings** page, start with the basics:
   population. People are the crews your buildings and ships need.
 - **Research Lab** and **Shipyard** unlock research and ships.
 
-You can line up to five orders; they're built one after another. Each building
-takes up space on your planet (the **Fields** bar at the top right).
+You can line up to five orders; they're built one after another. Each kind of
+building takes one field on your planet, however far you upgrade it (the
+**Fields** bar at the top right). Your homeworld has room for every kind of
+building; other planets are smaller, so choose what to build there.
 
 ![The Buildings page](docs/guide/04-buildings.png)
 
@@ -174,5 +176,23 @@ giant world, each with its own size and riches. You might also find:
 
 > **Tip:** Almost everything has a right-click menu: planets, stars, fleets,
 > ships, queue entries and messages. It's the quickest way to get things done.
+
+## 12. More guides
+
+Ready for more? These guides go deeper:
+
+| Guide | What it covers |
+|-------|----------------|
+| [Your planets](docs/planets.md) | Planet types, building fields, the surface map, people, water, food, energy, storage, colonies, moons and stations |
+| [Buildings](docs/buildings.md) | Every building and what it does |
+| [Research](docs/research.md) | Every research and where to start |
+| [Ships](docs/ships.md) | Every ship, crews, fleet auras and Quantum ships |
+| [Defenses](docs/defenses.md) | Cannons, shield domes and the Orbital Ring |
+| [Fleets and combat](docs/fleets-and-combat.md) | Missions, attacking, invading, intercepting and how battles work |
+| [Dangers](docs/dangers.md) | Pirates, illness, other empires and other risks |
+| [Exploration](docs/exploration.md) | Charting worlds, anomalies, expeditions and scanners |
+| [Growing your empire](docs/growing-your-empire.md) | Player levels, rewards, the Xenite Exchange, clans and your settings |
+
+![The surface map: a fully built homeworld and a young colony](docs/guide/13-surface.png)
 
 Good luck out there, Commander.
