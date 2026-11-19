@@ -7,20 +7,24 @@ it. Exploring finds new homes, treasure and danger.
 
 ## Charting new worlds
 
-Send any ship (Spy Probes are the cheapest) on a **Spy** mission to an
-undiscovered planet. The world is revealed the moment your fleet arrives. When
+Send **Spy Probes** or a **Pathfinder** on a **Spy** mission to an undiscovered
+planet. The world is revealed the moment your fleet arrives. When
 it does, one of these happens:
 
 - **Just the planet**: a free world you can settle later with a Colony Ship.
-- **Another empire's home**: probes along report what they saw.
+- **Another empire's home**: your spies report what they saw.
+- **A pirate haven**: pirates hold the world. They don't fight your spies,
+  but their guns shoot at them as they arrive; the ones that get through send
+  back a spy report on the pirates.
 - **A pirate ambush**: if your fleet survives, the pirates keep the world as a
-  *pirate haven* until someone clears it.
+  *pirate haven* until someone clears it, and your surviving spies report on
+  them.
 - **Derelict ships** drift nearby and join your fleet.
 - **A supply cache** fills your holds.
 - **An ancient archive** gives you a free research level.
 
-**Spy system** on the Galaxy Map sends probes to every planet worth a look in a
-system at once.
+**Spy system** on the Galaxy Map sends a fleet to every planet worth a look in
+a system at once.
 
 > **Tip:** Your star charts are private: only you (and your clan) know the
 > worlds you've charted. Other players have to find them themselves.

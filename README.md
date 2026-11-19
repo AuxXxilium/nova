@@ -17,7 +17,7 @@ fast it runs.
 For your first two weeks, a welcome reward is waiting each day you play:
 resources, ships, xenite and more, seven in all. They open by themselves while
 today's is waiting; after that, the **gift button** in the top bar opens them.
-Day 3 brings 10 Spy Probes and 5 Small Cargo ships, just right for exploring.
+Day 3 brings 10 Pathfinders and 5 Small Cargo ships, just right for exploring.
 
 Every fifth player level also earns a reward in the same window, so check back
 as you grow.
@@ -73,6 +73,7 @@ The **Shipyard** builds ships; the tabs sort them into warships, civil ships
 and exploration ships. To start out, you need:
 
 - **Spy Probes**: tiny and very fast, perfect for scouting.
+- **Pathfinders**: sturdier explorers and spies; your Day 3 reward brings ten.
 - **Small Cargo**: for moving resources between your planets.
 
 The number under each ship is how many you have docked.
@@ -113,8 +114,8 @@ Select an undiscovered planet and press **Spy (charts it)**. The fleet
 dispatcher opens in three steps:
 
 1. **Target & mission**: already filled in when you start from the map.
-2. **Ships**: choose how many Spy Probes to send. Two are plenty for an
-   uncharted world.
+2. **Ships**: send a Pathfinder or a couple of Spy Probes. Either one charts
+   an undiscovered world.
 3. **Cargo & options**: not needed for spying.
 
 The dispatcher shows the flight time and the fuel before you launch. Use
@@ -123,7 +124,7 @@ The dispatcher shows the flight time and the fuel before you launch. Use
 ![The fleet dispatcher](docs/guide/09-dispatch.png)
 
 **Want to chart a whole system at once?** Press **Spy system** on the system
-card. It sends a probe to every planet worth a look in one go.
+card. It sends a fleet to every planet worth a look in one go.
 
 ![Spying on a whole system](docs/guide/10-spy-system.png)
 

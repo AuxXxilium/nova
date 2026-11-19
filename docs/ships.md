@@ -25,9 +25,27 @@ game to see everything about it, including your research bonuses.
 | <img src="art/bomber.webp" width="200" alt="Bomber"> | **Bomber**<br>A siege ship that hits planetary defenses especially hard. Bring it when you attack fortified planets. |
 | <img src="art/battleship.webp" width="200" alt="Battleship"> | **Battleship**<br>A heavy line ship with thick armor and big guns. |
 | <img src="art/destroyer.webp" width="200" alt="Destroyer"> | **Destroyer**<br>Slow, but devastating in a big battle. Its many guns can take out several smaller ships at once. |
-| <img src="art/battlecruiser.webp" width="200" alt="Battlecruiser"> | **Battlecruiser**<br>The heaviest ship built without xenite: twin cannons and a dozen batteries, armored to last many rounds. |
+| <img src="art/battlecruiser.webp" width="200" alt="Battlecruiser"> | **Battlecruiser**<br>The heaviest ship built without xenite: twin spinal cannons and a broadside of batteries, armored to last many rounds. |
+| <img src="art/juggernaut.webp" width="200" alt="Juggernaut"> | **Juggernaut**<br>A wall of armor around fourteen heavy batteries and a flak grid, between the Battlecruiser and the Dreadnought. Slow, but it holds the line through a whole battle and makes the ships around it tougher. |
 | <img src="art/carrier.webp" width="200" alt="Wing Carrier"> | **Wing Carrier**<br>A flying hangar with no guns of its own. Its **Wing Fighters** launch at the start of every battle and are replaced after every battle the carrier survives. It also has a huge cargo bay. |
-| <img src="art/dreadnought.webp" width="200" alt="Xenite Dreadnought"> | **Xenite Dreadnought**<br>A flying fortress grown around a xenite core, the most powerful ship anyone can build. It needs xenite, a top Shipyard, lots of research, and a high player level. |
+| <img src="art/dreadnought.webp" width="200" alt="Dreadnought"> | **Dreadnought**<br>A flying fortress grown around a xenite core, the most powerful ship anyone can build. It needs xenite, a top Shipyard, lots of research, and a high player level. |
+
+## Hero ships
+
+Heroes are legendary capital ships, stronger than a Dreadnought. You can
+command **only one hero**, so choose well: a second one can't be built while
+yours is docked, flying or still in the shipyard. Every hero buffs its **whole
+fleet**, and while it sits in dock it also buffs **the planet it is docked
+at**. Each carries a small wing of Wing Fighters. Heroes need a top Shipyard,
+lots of research and a high player level, and all cost the same. The heroes
+with fewer buffs hit harder; the ones with more buffs are a little weaker.
+
+| | |
+|---|---|
+| <img src="art/yamato.webp" width="200" alt="Yamato"> | **Yamato**<br>The strongest hero. Its wave motion gun cracks orbital rings and shield domes. Its fleet hits harder, and the planet it guards gets stronger cannons. |
+| <img src="art/galactica.webp" width="200" alt="Galactica"> | **Galactica**<br>A battlestar built to outlast anything, with a flak barrage that shreds fighter swarms. Its fleet gets tougher shields and hulls, and the planet it guards gets stronger shields. |
+| <img src="art/macross.webp" width="200" alt="Macross"> | **Macross**<br>A flying fortress with a whole city inside and the biggest wing. Its fleet gets stronger shields and repairs lost ships after battle; its planet has room for more people and better cannons. |
+| <img src="art/voyager.webp" width="200" alt="Voyager"> | **Voyager**<br>The fastest hero, with the most buffs but the lightest guns. Its fleet flies faster, carries more and saves fuel; its planet mines more and builds and researches faster. |
 
 ## Civil ships
 
@@ -50,6 +68,12 @@ improve targeting, fighters screen with their shields, cruisers coordinate
 fire, battleships keep everyone together, large cargo ships save fuel, and so
 on. Mixed fleets are stronger than fleets of a single type. The fleet dispatcher
 shows which auras are active.
+
+**Gun types.** From the Frigate up, warships carry two kinds of guns (heroes
+three): light guns that are good against fighters, and heavy guns that find
+big ships. Each kind also has weak points it hits harder, including some of
+the cannons built to stop that ship. Open a ship's card to see its guns, and
+what is strong against it.
 
 **Quantum ships.** The **Quantum Drive** research unlocks a Quantum version of
 every ship: twice as fast, a little stronger, and more expensive. They have a

@@ -40,7 +40,7 @@ Flight time, fuel and arrival are always shown before you launch.
 
 | Mission | What it does |
 |---|---|
-| **Spy** | Chart an unknown world, or send Spy Probes to see what another planet holds. |
+| **Spy** | Chart an unknown world, or see what another planet holds. Takes Spy Probes or a Pathfinder. |
 | **Transport** | Deliver cargo to a planet and fly home. |
 | **Deploy** | Move ships and cargo to one of your planets for good. |
 | **Colonize** | Found a colony on a free world with a Colony Ship. |
@@ -48,11 +48,16 @@ Flight time, fuel and arrival are always shown before you launch.
 | **Invade** | Attack an enemy colony and land troops with a Colony Ship to take it over. |
 | **Recycle** | Collect a debris field with Recyclers. |
 | **Intercept** | Catch a foreign fleet in deep space and fight it there. |
-| **Defend** | Guard a clan member's planet for a while; your ships fight beside theirs. |
+| **Defend** | Guard another of your planets, moons or stations, or a clan member's, for a while; your ships fight beside what is there, then come home. |
 | **Park in orbit** | Wait at a planet for a while, then come home. |
 | **Trade** | Offer your cargo to another player for a price they can accept or decline. |
 | **Investigate** | Explore an anomaly: find out what a signal is, harvest a field, salvage a station. |
 | **Expedition** | Search deep space beyond your home system. Started from the Expedition button on the Fleet page. |
+
+**Going in blind.** You can also attack, deliver to or colonize a world you
+haven't charted. Your fleet charts it when it gets there and then does what it
+can. If there's nothing to attack, or nobody to deliver to, it simply flies
+home. You don't know what's waiting, so bring enough firepower.
 
 ## Attacking a planet
 
@@ -65,7 +70,8 @@ Flight time, fuel and arrival are always shown before you launch.
    and the expected losses on both sides.
 3. **Let the game suggest a fleet.** On the Ships step, the attack card can
    pick the smallest fleet likely to win while losing no more than you allow.
-   You can leave ship types out.
+   It uses your strongest ships first, so you send a few big ships instead of a
+   swarm. You can leave ship types out.
 4. **Bring cargo space.** If you win, your fleet plunders part of the planet's
    resources, as much as your holds can carry.
 5. **Bring Recyclers**, or send them right after: every battle leaves a debris
@@ -121,9 +127,18 @@ turn back in time, your hunters find nothing and fly home.
 
 - A battle lasts a few rounds. In each round, every ship and defense fires at a
   random enemy.
-- Shields take the damage first, then the hull. A unit is only destroyed when
-  its hull is gone. Very weak shots bounce off strong shields.
+- Shields never stop a hit completely: they soak up most of it, but part of
+  every hit gets through to the hull, even while the shields are up. Once the
+  shields are down, the hull takes it all. A unit is only destroyed when its
+  hull is gone. Every hit counts, however small: enough light fighters can
+  bring down even the biggest ship. Shield domes are the exception: they are
+  all shield and soak up every hit.
 - Big ships with several guns can take out several small ones in one round.
+- Every gun type has weak points: ship and defense types it hits harder (a
+  ship's card lists them). Its guns go after those first while any are left,
+  so a ship with several gun types spreads its fire, each type on its own
+  targets. Otherwise light guns go after small ships and heavy guns after
+  big ones.
 - Cargo ships, probes and other civil ships are only shot at once their side
   has no warships or defenses left.
 - Ships that survive keep their damage until it's repaired.

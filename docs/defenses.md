@@ -20,7 +20,7 @@ mixes several kinds.
 | <img src="art/ion_cannon.webp" width="200" alt="Ion Cannon"> | **Ion Cannon**<br>A heavily shielded emplacement that soaks up fire. Its bursts cripple mid-sized ships such as Frigates and Cruisers. |
 | <img src="art/gauss_cannon.webp" width="200" alt="Gauss Cannon"> | **Gauss Cannon**<br>Fires metal at tremendous speed, punching through the armor of Cruisers and Battleships. |
 | <img src="art/plasma_turret.webp" width="200" alt="Plasma Turret"> | **Plasma Turret**<br>Fires bolts of plasma. Deadly to big ships: Battleships, Destroyers, Battlecruisers and Wing Carriers. |
-| <img src="art/xenite_lance.webp" width="200" alt="Xenite Lance"> | **Xenite Lance**<br>An exotic beam powered by xenite, tuned to the cores of Xenite Dreadnoughts, and strong against Destroyers, Battlecruisers and Wing Carriers too. |
+| <img src="art/xenite_lance.webp" width="200" alt="Xenite Lance"> | **Xenite Lance**<br>An exotic beam powered by xenite, tuned to the cores of Dreadnoughts, and strong against Destroyers, Battlecruisers and Wing Carriers too. |
 | <img src="art/orbital_ring.webp" width="200" alt="Orbital Ring"> | **Orbital Ring**<br>A ring around the whole planet, carrying hundreds of heavy cannons that each pick their own target. Strong against Cruisers, Battleships, Destroyers and Battlecruisers. A huge late-game project. Up to three per planet. |
 
 ## Shield domes
@@ -32,6 +32,7 @@ hits the dome instead. Each planet can have one of each dome.
 | | |
 |---|---|
 | <img src="art/shield_dome_small.webp" width="200" alt="Small Shield Dome"> | **Small Shield Dome**<br>A light shield bubble. Early protection against small raids. |
+| <img src="art/shield_dome_medium.webp" width="200" alt="Medium Shield Dome"> | **Medium Shield Dome**<br>A double barrier on two pylons, the step between the small and the large dome. |
 | <img src="art/shield_dome_large.webp" width="200" alt="Large Shield Dome"> | **Large Shield Dome**<br>A heavy, layered barrier for a well-established planet. |
 | <img src="art/shield_dome_large.webp" width="200" alt="Mega Shield Dome"> | **Mega Shield Dome**<br>A fortress of overlapping barriers with a xenite core, by far the strongest dome. |
 

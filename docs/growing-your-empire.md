@@ -11,7 +11,7 @@ kept, even if you lose ships later.
 
 Some things wait for a level:
 
-- The **Xenite Dreadnought** can only be built from a high player level.
+- The **Dreadnought** can only be built from a high player level.
 - The **last, strongest level** of many buildings unlocks at an even higher
   one.
 
@@ -23,8 +23,10 @@ The **gift button** in the top bar opens your rewards:
   all: resources, ships, xenite and a production boost. They open by themselves
   while today's is waiting.
 - **Level rewards.** Every fifth player level brings resources and xenite, and
-  some bring a boost for a week. Rewards wait until you collect them, so
-  **Collect all** picks up everything at once.
+  a boost for a week that you pick yourself when you collect it: more
+  gathering, cheaper fuel, faster fleets, stronger combat, faster building or
+  cheaper building. Rewards wait until you collect them, so **Collect all**
+  picks up everything at once, with one boost for them all.
 
 Rewards are always delivered to your capital.
 
@@ -70,11 +72,16 @@ On the **Clan** page you can found a clan or accept an invitation.
 - **Clan buffs.** Any member can buy a buff from the Exchange for the whole
   clan.
 - **Alerts.** When someone attacks a member, the rest of the clan is told.
+- **Ship market.** Sell ships to your clan mates for a price you set (at
+  least a fifth of what they cost to build). Offering costs 5% of their
+  value, which you get back if you withdraw. To buy, you need to be at least
+  halfway to building those ships yourself.
 
 ## Rankings and messages
 
 - **Rankings** list every commander and AI empire by points, and by economy,
-  research, military, planets and discoveries.
+  research, military, planets and discoveries. The **Clans** tab ranks the
+  clans the same way, each counting what its members have.
 - **Messages** keep your mail, battle reports, spy reports and alerts. Write to
   any commander from Messages, the Rankings or their planets on the map.
 
